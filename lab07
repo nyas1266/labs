@@ -1,0 +1,49 @@
+ <table>
+    <h1>Nutrition Facts</h1>
+    <p>2 Serving per container</p>
+    <p>Serving size 1/2(70g)</p>
+    <div class="black"></div>
+  <thead>
+    <tr>
+      <th>Nutrient</th>
+      <th class="two">Amount per serving</th>
+    </tr>
+  </thead>  
+  <tbody>
+    <tr>
+      <td class="one">Total Fat</td>
+      <td>24g</td>
+    </tr>
+    <tr><td class="one">Saturated Fat</td>
+      <td>14g</td>
+    </tr>
+    <tr>
+      <td class="one">Trans Fat</td>
+      <td>0.5g</td>
+    </tr>
+    <tr>
+      <td class="one">Cholesterol</td>
+      <td>100mg</td>
+    </tr>
+    <tr>
+      <td class="one">Sodium</td>
+      <td>410g</td>
+    </tr>
+    <tr>
+      <td class="one">Total Carbohydrates</td>
+      <td>27g</td>
+    </tr>
+    <tr>
+      <td class="one">Dietary Fiber</td>
+      <td>1g</td>
+    </tr>
+    <tr>
+      <td class="one">Sugar</td>
+      <td>3g</td>
+    </tr>
+  </tbody>
+</table>
+
+  
+</body>
+</html>
